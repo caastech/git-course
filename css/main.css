@@ -1,8 +1,13 @@
 body{
     text-align: center;
-    color: chocolate;
 }
 
 h1{
     font-weight: bold;
+}
+
+#container{
+    width: 60%;
+    border: 1px solid black
+
 }
