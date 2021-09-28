@@ -11,3 +11,9 @@ h1{
     border: 1px solid black
 
 }
+
+#header{
+    font-weight: 200;
+    color: #fff;
+    background-color: chocolate;
+}
